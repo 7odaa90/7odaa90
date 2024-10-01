@@ -4,17 +4,11 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-<br>- :telescope: I studied computer science and artificial intelligence 💻;
-<br>- :hourglass_flowing_sand: Learning ML and DL;
-<br>- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
-<br>- :man_technologist: B.Tech(Computer Science and Engineering), GHRCE; 
-<br>- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
-<br>- 📫 How to reach me: 7oda.sa90@gmail.com;
+<br>- 📫 Email: 7oda.sa90@gmail.com;
 <br>- 📝[Resume](https://mahmoudsalama.net/cv.pdf) <br>
 
 ## About me :mortar_board:
 My name is Mahmoud Salama 😍 , and I am a passionate programmer and computer engineer with over 12 years of experience in technical support for companies. Throughout my career, I have developed a strong expertise in providing technical assistance and solving complex issues.
-I specialize in several programming languages, including PHP, JavaScript, React, and Vue.js. 
 
 **I have successfully developed two applications:**
 <br><B>❤️ Technical Support Application :</b> [@ITSEVEN](https://it.7odaa.com) This application is designed to manage technical support for businesses, streamlining communication and improving efficiency.
