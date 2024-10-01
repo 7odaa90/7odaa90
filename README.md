@@ -2,7 +2,7 @@
 ## Hi 👋, I'm [Mahmoud Salama!](https://mahmoudsalama.net) 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=7odaa90&label=Views&color=blue&style=plastic" alt="7odaa90" /> </p>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://github.com/7odaa90/7odaa90/blob/main/7odaa90-profile.gif" alt="Coder GIF" width="500" height="400">
 
 <br>- 📫 Email: 7oda.sa90@gmail.com;
 <br>- 📝[Resume](https://mahmoudsalama.net/cv.pdf) <br>
