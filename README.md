@@ -18,6 +18,7 @@ With a deep love for technology and a commitment to continuous learning, I striv
 
 ## What I know :computer:
 - **Competitive Programming**
+<br><img align="right" src="https://github.com/7odaa90/7odaa90/blob/main/profile-img.png" alt="7odaa GIF" width="250" height="250">
 	- PHP ❤️
 	- JavaScript 
 	- C++
@@ -45,7 +46,7 @@ With a deep love for technology and a commitment to continuous learning, I striv
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=7odaa90&show_icons=true)
 
-Thanks for stopping by! 😁
+<br>Thanks for stopping by! 😁
 
 
 
