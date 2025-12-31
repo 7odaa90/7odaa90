@@ -5,7 +5,7 @@
 <img align="right" src="https://github.com/7odaa90/7odaa90/blob/main/7odaa90-profile.gif" alt="Coder GIF" width="500" height="400">
 
 <br>- 📫 Email: 7oda.sa90@gmail.com;
-<br>- 📝[Resume](https://mahmoudsalama.net/cv.pdf) <br>
+<br>- 📝[Resume](https://mahmoudsalama.net/storage/main/resume/cv.pdf) <br>
 
 ## About me :mortar_board:
 My name is Mahmoud Salama 😍 , and I am a passionate programmer and computer engineer with over 12 years of experience in technical support for companies. Throughout my career, I have developed a strong expertise in providing technical assistance and solving complex issues.
